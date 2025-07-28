@@ -56,6 +56,7 @@ Siempre estoy buscando nuevas oportunidades para **aprender**, **mejorar** y **c
 ![API REST](https://img.shields.io/badge/API--REST-orange?style=for-the-badge)
 ![MVC](https://img.shields.io/badge/MVC-lightgrey?style=for-the-badge)
 ![TDD](https://img.shields.io/badge/TDD-blueviolet?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
 
 ---
 
